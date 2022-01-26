@@ -1,5 +1,0 @@
-version: v1beta1
-name: github.com/Omar-Belghaouti/swagger-it-up-on-grpc
-build:
-  roots:
-    - api

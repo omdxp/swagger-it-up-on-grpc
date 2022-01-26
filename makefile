@@ -1,3 +1,3 @@
 gen:
-	cd api; buf generate
+	buf generate
 
